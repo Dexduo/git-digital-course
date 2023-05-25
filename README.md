@@ -6,3 +6,4 @@ ADA - Santander Coders 2023
 ## Adicionando mudanças no repositório
 
 * comando git push
+* comando git pull
