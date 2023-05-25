@@ -7,3 +7,4 @@ ADA - Santander Coders 2023
 
 * comando git push
 * comando git pull
+* comando git fetch
